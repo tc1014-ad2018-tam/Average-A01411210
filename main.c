@@ -1,3 +1,12 @@
+/*
+ * Este programa esta hecho para calcular el promedio de los numeros que desee el usuario, a traves de un loop
+ * do...while
+ *
+ * Mario Emilio Aguilar Chung
+ * 9/5/2018
+ * A01411210@itesm.mx
+ *
+ */
 #include <stdio.h>
 
 int main() {
